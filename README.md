@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/ivankahl/ivankahl/blob/master/Header.png" alt="banner that says hi there, I'm Ivan Kahl">
 
 <!--
 **ivankahl/ivankahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
