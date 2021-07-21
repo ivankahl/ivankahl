@@ -4,7 +4,7 @@
 
 📝 I regularly write articles on: [https://ivankahl.com/](https://ivankahl.com/)
 
-💬 Ask me about: **Anything .NET, SQL Server, Blazor, VueJS**
+💬 Ask me about: **Anything .NET, SQL Server, Blazor, VueJS, AWS**
 
 📫 How to reach me: **hello@ivankahl.com**
 
