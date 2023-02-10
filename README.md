@@ -8,7 +8,7 @@
 
 📫 How to reach me: **hello@ivankahl.com**
 
-📄 Know about my experiences: [https://ivankahl.com/curriculum-vitae/](https://ivankahl.com/curriculum-vitae/)
+📄 Know about my experiences: [https://resume.ivankahl.com/](https://resume.ivankahl.com/)
 
 ⚡ Fun fact: **I have a lion teddy that has his own Instagram page.**
 
