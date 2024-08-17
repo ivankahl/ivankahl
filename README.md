@@ -1,4 +1,4 @@
-<img src="https://github.com/ivankahl/ivankahl/blob/master/Headerv2.png" alt="banner that says hi there, I'm Ivan Kahl">
+<img src="https://github.com/ivankahl/ivankahl/blob/master/header.png" alt="banner that says hi there, I'm Ivan Kahl">
 
 👨🏻‍💻 I’m currently working at: [Mercury](https://github.com/mercury-fx)
 
