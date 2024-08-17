@@ -4,13 +4,11 @@
 
 📝 I regularly write articles on: [https://ivankahl.com/](https://ivankahl.com/)
 
-💬 Ask me about: **Anything .NET, SQL Server, Blazor, VueJS, AWS**
+💬 Ask me about: **Anything .NET, Azure, AWS, PostgreSQL, SQL Server and more**
 
 📫 How to reach me: **hello@ivankahl.com**
 
 📄 Know about my experiences: [https://resume.ivankahl.com/](https://resume.ivankahl.com/)
-
-⚡ Fun fact: **I have a lion teddy that has his own Instagram page.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
