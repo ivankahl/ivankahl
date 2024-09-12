@@ -1,8 +1,8 @@
 <img src="https://github.com/ivankahl/ivankahl/blob/master/header.png" alt="banner that says hi there, I'm Ivan Kahl">
 
-👨🏻‍💻 I’m currently working at: [Mercury](https://github.com/mercury-fx)
+👨🏻‍💻 I’m currently working at: [Alpha International](https://alpha.org/)
 
-📝 I regularly write articles on: [https://ivankahl.com/](https://ivankahl.com/)
+📝 I regularly write articles on: [https://blog.ivankahl.com/](https://blog.ivankahl.com/)
 
 💬 Ask me about: **Anything .NET, Azure, AWS, PostgreSQL, SQL Server and more**
 
