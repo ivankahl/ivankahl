@@ -1,6 +1,4 @@
-<img src="https://github.com/ivankahl/ivankahl/blob/master/header.png" alt="banner that says hi there, I'm Ivan Kahl">
-
-👨🏻‍💻 I’m currently working at: [Alpha International](https://alpha.org/)
+👨🏻‍💻 I’m currently working at: 🌍[Entelect]([https://alpha.org/](https://entelect.co.za/))
 
 📝 I regularly write articles on: [https://blog.ivankahl.com/](https://blog.ivankahl.com/)
 
